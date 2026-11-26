@@ -1,7 +1,7 @@
 # Version setzt die GitHub Action bei jedem Build auf das Tag des Images (sha-<7 Zeichen>).
 name: Sauerteig-Rechner
 description: Vollkornbrot aus Roggen, Dinkel, Weizen und Buchweizen
-version: "sha-d9c7903"
+version: "sha-9621d8b"
 slug: sauerteig
 url: https://github.com/lsvllr/sauerteig-addon
 arch:
